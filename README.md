@@ -12,7 +12,7 @@ A sleek, artistic browser app that transforms your birthday into a radiant life 
 
 ## How to Use
 
-1. Open `index.html` in your browser.
+1. Open the `index.html` in your browser.
 2. Select your date of birth.
 3. Click the submit button.
 4. See your age and next birthday countdown instantly.
